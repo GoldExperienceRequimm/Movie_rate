@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie_rate/static/css/main.a85ecdba.css",
+    "main.js": "/Movie_rate/static/js/main.2157962f.js",
+    "index.html": "/Movie_rate/index.html",
+    "main.a85ecdba.css.map": "/Movie_rate/static/css/main.a85ecdba.css.map",
+    "main.2157962f.js.map": "/Movie_rate/static/js/main.2157962f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a85ecdba.css",
+    "static/js/main.2157962f.js"
+  ]
+}
